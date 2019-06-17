@@ -23,7 +23,3 @@ pagehelper:
   helper-dialect: mysql                       #设置数据库
   reasonable: true                            #启用分页合理化参数
   support-methods-arguments: true  
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:9000/eureka/             
